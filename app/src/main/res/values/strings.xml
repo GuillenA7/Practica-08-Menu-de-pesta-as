@@ -1,0 +1,37 @@
+<resources>
+    <string name="app_name">Práctica 08 - Menú de pestañas</string>
+
+    <string name="tab_principal">Principal</string>
+    <string name="tab_galeria">Galeria</string>
+    <string name="tab_contacto">Contacto</string>
+
+    <!-- Principal -->
+    <string name="conclusion">Conclusión</string>
+    <string name="conclusion_texto">En esta práctica, implemente un menú de pestañas con TabLayout y ViewPager2, organizando la aplicación en tres secciones: Principal, Galería y Formulario. Cada una brindando una funcionalidad específica:
+    Principal: Permitió mostrar mis conclusiones de forma sencilla.
+    Galería: Implemente la reproducción de canciones con un Spinner y un SeekBar.
+    Formulario: Se permite evaluar el servicio con un RatingBar mostrando mensajes según la calificación.
+    Esta practica fortaleció mi manejo de fragmentos, multimedia y componentes avanzados de Android.</string>
+
+    <!-- Galeria -->
+    <string name="musica">Galería</string>
+    <string name="elige">Elige una canción</string>
+    <string name="volumen">Volumen</string>
+    <string name="tiempo">00:00</string>
+
+    <string-array name="canciones">
+        <item>Undertale OST - Home</item>
+        <item>Undertale OST - Memory</item>
+        <item>Undertale OST - Undertale</item>
+    </string-array>
+
+    <!-- Contacto -->
+    <string name="formulario">Calificar</string>
+    <string name="correo">Correo electrónico</string>
+    <string name="comentario">Comentario</string>
+    <string name="califica">Toca para calificar</string>
+    <string name="enviar">Enviar</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
